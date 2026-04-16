@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bùi Đỉnh</h1>
-<h3 align="center">🚀 Software Engineering Student | React & NodeJS Lover</h3>
+<h3 align="center">🚀 Software Engineering Student | React & NodeJS Developer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Developer;React+%7C+NodeJS;Always+Learning+New+Things&center=true&width=500&height=50">
+</p>
 
 ---
 
@@ -7,48 +11,56 @@
 <p align="center">
   📧 buidinhyt@gmail.com &nbsp; | &nbsp;
   📱 0862158523 &nbsp; | &nbsp;
-  📸 <a href="https://www.facebook.com/buidinh2710" target="_blank">Facebook</a>
+  📸 <a href="https://www.facebook.com/buidinh2710">Facebook</a>
 </p>
+
 ---
 
-## 🌐 Connect with me
+## 🛠️ Tech Stack
 <p align="center">
-<a href="https://instagram.com/bwy.dynh_2710" target="blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" width="50" />
-</a>
-</p>
-
----
-
-## 🛠️ Languages & Tools
-<p align="center" style="white-space: nowrap;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50"/>
+  <img src="https://skillicons.dev/icons?i=c,html,java,js,nodejs,mysql,react" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=buidinh2710&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buidinh2710&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 💡 About Me
-- 🎓 Student at FPT University  
-- 💻 Major: Software Engineering  
-- ⚛️ Focus: ReactJS & NodeJS  
-- 🎲 Passion: Events & Board Games  
+## 🔥 Streak Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=buidinh2710&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## ✨ Fun Quote
+## 📈 Activity Graph
 <p align="center">
-  "Code. Build. Break. Learn. Repeat."
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=buidinh2710&theme=tokyo-night" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=buidinh2710&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 🎯 About Me
+- 🎓 FPT University Student  
+- 💻 Software Engineering  
+- ⚛️ React & NodeJS Developer  
+- 🎲 Board Game & Event Enthusiast  
+
+---
+
+## ⚡ Fun Fact
+<p align="center">
+  I turn ☕ into code and ideas into reality 🚀
 </p>
