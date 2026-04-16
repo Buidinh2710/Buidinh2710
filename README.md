@@ -64,9 +64,3 @@
 <p align="center">
   I turn ☕ into code and ideas into reality 🚀
 </p>
-
-## 🐍 A Snake Eating My Contributions Graph
-
-<p align="center">
-  <img src="https://github.com/buidinh2710/buidinh2710/blob/output/github-contribution-grid-snake.svg" />
-</p>
