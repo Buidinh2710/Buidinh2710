@@ -5,11 +5,10 @@
 
 ## 📫 Contact
 <p align="center">
-  📧 <b>Email:</b> buidinhyt@gmail.com <br>
-  📸 <b>Instagram:</b> 
-  <a href="https://instagram.com/bwy.dynh_2710" target="_blank">bwy.dynh_2710</a>
+  📧 buidinhyt@gmail.com &nbsp; | &nbsp;
+  📱 0862158523 &nbsp; | &nbsp;
+  📸 <a href="https://www.facebook.com/buidinh2710" target="_blank">Facebook</a>
 </p>
-
 ---
 
 ## 🌐 Connect with me
