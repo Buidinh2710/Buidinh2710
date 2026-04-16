@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Bùi Đỉnh</h1>
 - 📫 How to reach me **buidinhyt@gmail.com**
 
